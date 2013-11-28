@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/70/trunk/AudioAnalysers/@LoudnessMGB
+END
+processWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/70/trunk/AudioAnalysers/@LoudnessMGB/processWindow.m
+END
+getfilterMethod.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/70/trunk/AudioAnalysers/@LoudnessMGB/getfilterMethod.m
+END
+constructDataObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/68/trunk/AudioAnalysers/@LoudnessMGB/constructDataObjects.m
+END
+ui.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/68/trunk/AudioAnalysers/@LoudnessMGB/ui.m
+END
+settings.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/68/trunk/AudioAnalysers/@LoudnessMGB/settings.m
+END
+LoudnessMGB.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/68/trunk/AudioAnalysers/@LoudnessMGB/LoudnessMGB.m
+END
+getDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/68/trunk/AudioAnalysers/@LoudnessMGB/getDescription.m
+END

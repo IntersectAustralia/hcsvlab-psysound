@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/63/trunk/AudioAnalysers/@VirtualPitch/private
+END
+ptp2svp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/33/trunk/AudioAnalysers/@VirtualPitch/private/ptp2svp.cpp
+END
+PitchProfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/33/trunk/AudioAnalysers/@VirtualPitch/private/PitchProfile.m
+END
+terhardtVPitch.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/33/trunk/AudioAnalysers/@VirtualPitch/private/terhardtVPitch.m
+END
+ptp2svp.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/63/trunk/AudioAnalysers/@VirtualPitch/private/ptp2svp.m
+END
+calculateParncuttMeasures.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/33/trunk/AudioAnalysers/@VirtualPitch/private/calculateParncuttMeasures.m
+END

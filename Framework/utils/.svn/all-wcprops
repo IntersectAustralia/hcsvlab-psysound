@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/58/trunk/Framework/utils
+END
+readData.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/Framework/utils/readData.m
+END
+getPsysound3Prefs.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/Framework/utils/getPsysound3Prefs.m
+END
+percentile.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6/trunk/Framework/utils/percentile.m
+END
+updatePsySound3.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/Framework/utils/updatePsySound3.m
+END
+getFullPathToSox.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/Framework/utils/getFullPathToSox.m
+END
+getDataObjData.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/58/trunk/Framework/utils/getDataObjData.m
+END
+getFilesInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/Framework/utils/getFilesInfo.m
+END
+estimateCalibrationCoefficientDLM.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/Framework/utils/estimateCalibrationCoefficientDLM.m
+END
+estimateCalibrationCoefficientRoughness.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/Framework/utils/estimateCalibrationCoefficientRoughness.m
+END
+makeDataBuffer.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/51/trunk/Framework/utils/makeDataBuffer.m
+END
+getSupportedFormats.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Framework/utils/getSupportedFormats.m
+END
+setPsysound3Prefs.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/Framework/utils/setPsysound3Prefs.m
+END
+getPsySoundDir.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/Framework/utils/getPsySoundDir.m
+END

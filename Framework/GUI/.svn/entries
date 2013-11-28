@@ -1,0 +1,140 @@
+8
+
+dir
+70
+https://psysound3.googlecode.com/svn/trunk/Framework/GUI
+https://psysound3.googlecode.com/svn
+
+
+
+2010-05-17T04:49:18.874665Z
+69
+samuel.john.ferguson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aa0e3d8e-bf9b-11dd-b9c8-e7e19bf6fede
+
+getVersionFile.m
+file
+
+
+
+
+2010-05-19T23:50:35.000000Z
+bf8a6b6e92bc59ba0f29865e5f01834f
+2009-07-03T05:16:56.776505Z
+46
+densil.cabrera
+
+InitialiseUI.m
+file
+
+
+
+
+2010-05-19T23:50:35.000000Z
+8a16d7781792f26d7a8ef729e9839ef5
+2010-05-17T04:49:18.874665Z
+69
+samuel.john.ferguson
+
+runanalysis.m
+file
+
+
+
+
+2010-05-19T23:50:35.000000Z
+72d2edf12da6bbe23ec88a62dec85f85
+2009-04-07T01:59:26.938221Z
+17
+samuel.john.ferguson
+
+PsySoundGUI.m
+file
+
+
+
+
+2010-05-19T23:50:35.000000Z
+020edb53df9e9403b22073f4f99cfe83
+2009-01-06T06:13:52.075010Z
+6
+samuel.john.ferguson
+
+PostPropGUI.m
+file
+
+
+
+
+2010-05-19T23:50:35.000000Z
+602a39582e033710765775c8663ce0df
+2010-05-17T04:49:18.874665Z
+69
+samuel.john.ferguson
+
+2006
+dir
+
+PostPropGUIBack.m
+file
+
+
+
+
+2010-05-19T23:50:35.000000Z
+a3c4c3b90fcfdde3b888127f4e06f6f2
+2009-01-06T06:13:52.075010Z
+6
+samuel.john.ferguson
+
+2007
+dir
+
+2008
+dir
+
+private
+dir
+
+icons
+dir
+
+PsySoundGUI.fig
+file
+
+
+
+
+2010-05-19T23:50:35.000000Z
+1b4d2b6aa1513185789c04136b2294aa
+2009-01-06T06:13:52.075010Z
+6
+samuel.john.ferguson
+has-props
+
+DisplayUIPanel.m
+file
+
+
+
+
+2010-05-19T23:50:35.000000Z
+7e3c22e261b39725e5884c71107c13ba
+2009-01-06T06:13:52.075010Z
+6
+samuel.john.ferguson
+

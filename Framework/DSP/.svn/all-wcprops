@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/9/trunk/Framework/DSP
+END
+power2dB.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/6/trunk/Framework/DSP/power2dB.m
+END
+calibrate.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6/trunk/Framework/DSP/calibrate.m
+END
+erb2freq.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/6/trunk/Framework/DSP/erb2freq.m
+END
+weightings.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9/trunk/Framework/DSP/weightings.m
+END
+freq2erb.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/6/trunk/Framework/DSP/freq2erb.m
+END
+autocorrelation.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/Framework/DSP/autocorrelation.m
+END
+crosscorrelation.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/Framework/DSP/crosscorrelation.m
+END
+integrator.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9/trunk/Framework/DSP/integrator.m
+END
+estimateCalibrationCoefficient.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/Framework/DSP/estimateCalibrationCoefficient.m
+END
+fastfilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/Framework/DSP/fastfilter.m
+END

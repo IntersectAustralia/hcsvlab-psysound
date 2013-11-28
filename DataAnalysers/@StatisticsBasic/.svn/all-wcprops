@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/45/trunk/DataAnalysers/@StatisticsBasic
+END
+updateDataAnalyserPanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/DataAnalysers/@StatisticsBasic/updateDataAnalyserPanel.m
+END
+displayStatsObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/DataAnalysers/@StatisticsBasic/displayStatsObject.m
+END
+StatisticsBasic.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/DataAnalysers/@StatisticsBasic/StatisticsBasic.m
+END
+ui.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/DataAnalysers/@StatisticsBasic/ui.m
+END
+getDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/DataAnalysers/@StatisticsBasic/getDescription.m
+END

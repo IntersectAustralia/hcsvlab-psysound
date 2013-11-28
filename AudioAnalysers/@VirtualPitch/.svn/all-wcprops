@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/63/trunk/AudioAnalysers/@VirtualPitch
+END
+getAuthors.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/33/trunk/AudioAnalysers/@VirtualPitch/getAuthors.m
+END
+processWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/33/trunk/AudioAnalysers/@VirtualPitch/processWindow.m
+END
+assignOutputs.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/33/trunk/AudioAnalysers/@VirtualPitch/assignOutputs.m
+END
+constructDataObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/33/trunk/AudioAnalysers/@VirtualPitch/constructDataObjects.m
+END
+allocOutputDataStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/33/trunk/AudioAnalysers/@VirtualPitch/allocOutputDataStorage.m
+END
+VirtualPitch.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/33/trunk/AudioAnalysers/@VirtualPitch/VirtualPitch.m
+END
+getDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/33/trunk/AudioAnalysers/@VirtualPitch/getDescription.m
+END

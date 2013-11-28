@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/58/trunk/Framework/GUI/private
+END
+updateWaitBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Framework/GUI/private/updateWaitBar.m
+END
+updateFilesTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/58/trunk/Framework/GUI/private/updateFilesTable.m
+END
+resetWaitBars.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Framework/GUI/private/resetWaitBars.m
+END
+changeSelectedFiles.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/Framework/GUI/private/changeSelectedFiles.m
+END

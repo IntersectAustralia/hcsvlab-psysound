@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/26/trunk/DataAnalysers/@AllAvgSpec
+END
+ui.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/DataAnalysers/@AllAvgSpec/ui.m
+END
+AllAvgSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/DataAnalysers/@AllAvgSpec/AllAvgSpec.m
+END
+Graph.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/26/trunk/DataAnalysers/@AllAvgSpec/Graph.m
+END
+getDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/DataAnalysers/@AllAvgSpec/getDescription.m
+END

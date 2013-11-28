@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/AudioAnalysers/@RoughnessDW/private
+END
+db2amp.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/AudioAnalysers/@RoughnessDW/private/db2amp.m
+END
+amp2db.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/AudioAnalysers/@RoughnessDW/private/amp2db.m
+END
+InitFs40960N8192.mat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/AudioAnalysers/@RoughnessDW/private/InitFs40960N8192.mat
+END
+InitAll.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/AudioAnalysers/@RoughnessDW/private/InitAll.m
+END
+InitFs44100N8192.mat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/AudioAnalysers/@RoughnessDW/private/InitFs44100N8192.mat
+END
+roughness.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/AudioAnalysers/@RoughnessDW/private/roughness.m
+END
+InitFs48000N8192.mat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/AudioAnalysers/@RoughnessDW/private/InitFs48000N8192.mat
+END
+rms.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/AudioAnalysers/@RoughnessDW/private/rms.m
+END
+Hweights.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/AudioAnalysers/@RoughnessDW/private/Hweights.m
+END
+RoughBody.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/AudioAnalysers/@RoughnessDW/private/RoughBody.m
+END

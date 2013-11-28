@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSeries
+END
+anim.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSeries/anim.m
+END
+getDataObjectStatsString.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSeries/getDataObjectStatsString.m
+END
+getDataUnit.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSeries/getDataUnit.m
+END
+addevent.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSeries/addevent.m
+END
+getSize.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSeries/getSize.m
+END
+set.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSeries/set.m
+END
+exportData.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSeries/exportData.m
+END
+setlength.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSeries/setlength.m
+END
+dataAnalysis.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSeries/dataAnalysis.m
+END
+plot.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSeries/plot.m
+END
+get.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSeries/get.m
+END
+psysnd3tSeries.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSeries/psysnd3tSeries.m
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+70
+https://psysound3.googlecode.com/svn/trunk/AudioAnalysers/@TwelfthOctConstQ/private
+https://psysound3.googlecode.com/svn
+
+
+
+2009-09-01T04:26:46.554387Z
+53
+samuel.john.ferguson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aa0e3d8e-bf9b-11dd-b9c8-e7e19bf6fede
+
+constQ.m
+file
+
+
+
+
+2010-05-19T23:50:25.000000Z
+97d768c3778a9a14c0d2f9ac0b1dc932
+2009-09-01T04:26:46.554387Z
+53
+samuel.john.ferguson
+
+sparseKernel.m
+file
+
+
+
+
+2010-05-19T23:50:25.000000Z
+cb009c144e3e33c59046231fc21e914d
+2009-09-01T04:26:46.554387Z
+53
+samuel.john.ferguson
+

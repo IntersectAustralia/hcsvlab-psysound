@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/65/trunk/Objects/CustomObjects/@DAAF
+END
+normalise.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/normalise.m
+END
+hist 2.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/hist%202.m
+END
+DAAF.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/62/trunk/Objects/CustomObjects/@DAAF/DAAF.m
+END
+set.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/set.m
+END
+threshold.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/threshold.m
+END
+hist2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/hist2d.m
+END
+thresholdPitched.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/thresholdPitched.m
+END
+getStats.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/getStats.m
+END
+stats.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/stats.m
+END
+intersect.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/intersect.m
+END
+tsMedian.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/tsMedian.m
+END
+display.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/display.m
+END
+highlight.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/highlight.m
+END
+regress.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/regress.m
+END
+decimate.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/decimate.m
+END
+threshold2.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/threshold2.m
+END
+select.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/select.m
+END
+density.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/density.m
+END
+export.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/export.m
+END
+displayStats.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/displayStats.m
+END
+concatenate.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/62/trunk/Objects/CustomObjects/@DAAF/concatenate.m
+END
+xfade.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/62/trunk/Objects/CustomObjects/@DAAF/xfade.m
+END
+boxplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/boxplot.m
+END
+sound.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/36/trunk/Objects/CustomObjects/@DAAF/sound.m
+END
+recreate.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/recreate.m
+END
+tsPeakAnalysis.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/tsPeakAnalysis.m
+END
+summSpec.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/62/trunk/Objects/CustomObjects/@DAAF/summSpec.m
+END
+CDF.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/CDF.m
+END
+oldstats.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/oldstats.m
+END
+FindChord.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/FindChord.m
+END
+hist.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/hist.m
+END
+subsref.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/subsref.m
+END
+plot.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/plot.m
+END
+get.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/get.m
+END
+specav.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/Objects/CustomObjects/@DAAF/specav.m
+END
+tsFourier.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Objects/CustomObjects/@DAAF/tsFourier.m
+END

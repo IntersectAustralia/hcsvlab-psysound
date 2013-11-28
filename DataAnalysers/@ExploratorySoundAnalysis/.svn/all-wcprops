@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/62/trunk/DataAnalysers/@ExploratorySoundAnalysis
+END
+BVCallback.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/DataAnalysers/@ExploratorySoundAnalysis/BVCallback.m
+END
+ExploratorySoundAnalysis.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/DataAnalysers/@ExploratorySoundAnalysis/ExploratorySoundAnalysis.m
+END
+UVCallback.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/DataAnalysers/@ExploratorySoundAnalysis/UVCallback.m
+END
+updateDataAnalyserPanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/DataAnalysers/@ExploratorySoundAnalysis/updateDataAnalyserPanel.m
+END
+ui.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/DataAnalysers/@ExploratorySoundAnalysis/ui.m
+END
+SPCallback.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/62/trunk/DataAnalysers/@ExploratorySoundAnalysis/SPCallback.m
+END
+getDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/DataAnalysers/@ExploratorySoundAnalysis/getDescription.m
+END
+TSCallback.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/DataAnalysers/@ExploratorySoundAnalysis/TSCallback.m
+END

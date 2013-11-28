@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/AudioAnalysers/@Cepstrum
+END
+processWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/AudioAnalysers/@Cepstrum/processWindow.m
+END
+constructDataObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/AudioAnalysers/@Cepstrum/constructDataObjects.m
+END
+getFFT.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/AudioAnalysers/@Cepstrum/getFFT.m
+END
+Cepstrum.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/AudioAnalysers/@Cepstrum/Cepstrum.m
+END
+getDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/AudioAnalysers/@Cepstrum/getDescription.m
+END

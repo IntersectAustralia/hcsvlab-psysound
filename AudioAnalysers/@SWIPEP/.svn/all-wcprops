@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/16/trunk/AudioAnalysers/@SWIPEP
+END
+processWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/AudioAnalysers/@SWIPEP/processWindow.m
+END
+SWIPEP.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/AudioAnalysers/@SWIPEP/SWIPEP.m
+END
+constructDataObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/AudioAnalysers/@SWIPEP/constructDataObjects.m
+END
+getDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/AudioAnalysers/@SWIPEP/getDescription.m
+END

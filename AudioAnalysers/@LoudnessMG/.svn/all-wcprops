@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/AudioAnalysers/@LoudnessMG
+END
+processWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/AudioAnalysers/@LoudnessMG/processWindow.m
+END
+assignOutputs.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/AudioAnalysers/@LoudnessMG/assignOutputs.m
+END
+constructDataObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/AudioAnalysers/@LoudnessMG/constructDataObjects.m
+END
+setlevelOffset.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/AudioAnalysers/@LoudnessMG/setlevelOffset.m
+END
+allocOutputDataStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/AudioAnalysers/@LoudnessMG/allocOutputDataStorage.m
+END
+ui.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/AudioAnalysers/@LoudnessMG/ui.m
+END
+getlevelOffset.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/AudioAnalysers/@LoudnessMG/getlevelOffset.m
+END
+LoudnessMG.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/AudioAnalysers/@LoudnessMG/LoudnessMG.m
+END
+getDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/AudioAnalysers/@LoudnessMG/getDescription.m
+END

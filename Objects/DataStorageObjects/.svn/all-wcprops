@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/65/trunk/Objects/DataStorageObjects
+END
+findAllInDataSet.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/26/trunk/Objects/DataStorageObjects/findAllInDataSet.m
+END
+addSubjectiveData.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/65/trunk/Objects/DataStorageObjects/addSubjectiveData.m
+END
+saveDataStorageArrObj.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/saveDataStorageArrObj.m
+END
+getDataStorageArrObj.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/getDataStorageArrObj.m
+END

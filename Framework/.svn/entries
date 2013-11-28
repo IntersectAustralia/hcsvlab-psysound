@@ -1,0 +1,37 @@
+8
+
+dir
+70
+https://psysound3.googlecode.com/svn/trunk/Framework
+https://psysound3.googlecode.com/svn
+
+
+
+2010-05-17T04:49:18.874665Z
+69
+samuel.john.ferguson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aa0e3d8e-bf9b-11dd-b9c8-e7e19bf6fede
+
+utils
+dir
+
+GUI
+dir
+
+DSP
+dir
+

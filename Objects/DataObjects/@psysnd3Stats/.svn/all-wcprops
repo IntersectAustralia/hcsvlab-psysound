@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/43/trunk/Objects/DataObjects/@psysnd3Stats
+END
+setSpecSummary.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/trunk/Objects/DataObjects/@psysnd3Stats/setSpecSummary.m
+END
+display.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3Stats/display.m
+END
+setSummary.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/Objects/DataObjects/@psysnd3Stats/setSummary.m
+END
+getSummaryByName.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/26/trunk/Objects/DataObjects/@psysnd3Stats/getSummaryByName.m
+END
+subsref.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3Stats/subsref.m
+END
+set.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3Stats/set.m
+END
+get.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3Stats/get.m
+END
+getSummaryFullName.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/26/trunk/Objects/DataObjects/@psysnd3Stats/getSummaryFullName.m
+END
+psysnd3Stats.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/43/trunk/Objects/DataObjects/@psysnd3Stats/psysnd3Stats.m
+END

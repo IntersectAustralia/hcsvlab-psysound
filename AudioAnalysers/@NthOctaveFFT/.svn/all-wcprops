@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT
+END
+getNOct_FFT_2_NOctFreq.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/getNOct_FFT_2_NOctFreq.m
+END
+setNOctG.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/setNOctG.m
+END
+constructDataObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/constructDataObjects.m
+END
+assignOutputs.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/assignOutputs.m
+END
+allocOutputDataStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/allocOutputDataStorage.m
+END
+getNOctNumBands.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/getNOctNumBands.m
+END
+NthOctaveFFT.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/NthOctaveFFT.m
+END
+setNOctCentreFreq.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/setNOctCentreFreq.m
+END
+setNOctStartHz.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/setNOctStartHz.m
+END
+setNOct_FFT_2_NOctFreq.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/setNOct_FFT_2_NOctFreq.m
+END
+getNOct.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/getNOct.m
+END
+processWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/processWindow.m
+END
+setNOctNumBands.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/setNOctNumBands.m
+END
+getNOctG.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/getNOctG.m
+END
+getFFT.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/getFFT.m
+END
+setNOct.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/setNOct.m
+END
+getNOctCentreFreq.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/getNOctCentreFreq.m
+END
+getNOctStartHz.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/getNOctStartHz.m
+END
+getDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/52/trunk/AudioAnalysers/@NthOctaveFFT/getDescription.m
+END

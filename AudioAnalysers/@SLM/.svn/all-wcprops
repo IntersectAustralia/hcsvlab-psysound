@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/65/trunk/AudioAnalysers/@SLM
+END
+getAnalyserSettingsString.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/47/trunk/AudioAnalysers/@SLM/getAnalyserSettingsString.m
+END
+getiChoices.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/AudioAnalysers/@SLM/getiChoices.m
+END
+assignOutputs.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/AudioAnalysers/@SLM/assignOutputs.m
+END
+constructDataObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/65/trunk/AudioAnalysers/@SLM/constructDataObjects.m
+END
+allocOutputDataStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/AudioAnalysers/@SLM/allocOutputDataStorage.m
+END
+SLM.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/9/trunk/AudioAnalysers/@SLM/SLM.m
+END
+settings.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9/trunk/AudioAnalysers/@SLM/settings.m
+END
+getIgnoreDelay.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/AudioAnalysers/@SLM/getIgnoreDelay.m
+END
+setiChoices.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/AudioAnalysers/@SLM/setiChoices.m
+END
+getwChoices.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/AudioAnalysers/@SLM/getwChoices.m
+END
+processWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9/trunk/AudioAnalysers/@SLM/processWindow.m
+END
+exportData.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/AudioAnalysers/@SLM/exportData.m
+END
+ui.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/65/trunk/AudioAnalysers/@SLM/ui.m
+END
+setIgnoreDelay.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/AudioAnalysers/@SLM/setIgnoreDelay.m
+END
+setwChoices.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/AudioAnalysers/@SLM/setwChoices.m
+END
+getDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/AudioAnalysers/@SLM/getDescription.m
+END

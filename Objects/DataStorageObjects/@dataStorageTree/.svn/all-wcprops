@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/51/trunk/Objects/DataStorageObjects/@dataStorageTree
+END
+display.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/50/trunk/Objects/DataStorageObjects/@dataStorageTree/display.m
+END
+convertToDataObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Objects/DataStorageObjects/@dataStorageTree/convertToDataObjects.m
+END
+queryFiles.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/51/trunk/Objects/DataStorageObjects/@dataStorageTree/queryFiles.m
+END
+getData.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/50/trunk/Objects/DataStorageObjects/@dataStorageTree/getData.m
+END
+dataStorageTree.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/51/trunk/Objects/DataStorageObjects/@dataStorageTree/dataStorageTree.m
+END
+get.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/Objects/DataStorageObjects/@dataStorageTree/get.m
+END

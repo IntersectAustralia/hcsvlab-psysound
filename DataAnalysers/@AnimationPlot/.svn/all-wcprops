@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/DataAnalysers/@AnimationPlot
+END
+execDoubleClick.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/DataAnalysers/@AnimationPlot/execDoubleClick.m
+END
+updateDataAnalyserPanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/DataAnalysers/@AnimationPlot/updateDataAnalyserPanel.m
+END
+ui.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/DataAnalysers/@AnimationPlot/ui.m
+END
+AnimationPlot.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/DataAnalysers/@AnimationPlot/AnimationPlot.m
+END
+Movie.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/DataAnalysers/@AnimationPlot/Movie.m
+END
+getDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/DataAnalysers/@AnimationPlot/getDescription.m
+END

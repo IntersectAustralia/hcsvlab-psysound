@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/48/trunk/Objects/DataStorageObjects/@dataStorageArray
+END
+subsasgn.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/@dataStorageArray/subsasgn.m
+END
+display.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/@dataStorageArray/display.m
+END
+findeq.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/@dataStorageArray/findeq.m
+END
+sort.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/@dataStorageArray/sort.m
+END
+getNumChildren.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/@dataStorageArray/getNumChildren.m
+END
+subsref.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/@dataStorageArray/subsref.m
+END
+set.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/@dataStorageArray/set.m
+END
+dataStorageArray.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/@dataStorageArray/dataStorageArray.m
+END
+addNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/@dataStorageArray/addNode.m
+END
+get.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/@dataStorageArray/get.m
+END
+replaceNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10/trunk/Objects/DataStorageObjects/@dataStorageArray/replaceNode.m
+END
+findChildWithFileName.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/@dataStorageArray/findChildWithFileName.m
+END
+findChildWithName.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/@dataStorageArray/findChildWithName.m
+END
+removeNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/Objects/DataStorageObjects/@dataStorageArray/removeNode.m
+END

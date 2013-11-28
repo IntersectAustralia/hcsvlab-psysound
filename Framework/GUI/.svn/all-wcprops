@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/69/trunk/Framework/GUI
+END
+getVersionFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Framework/GUI/getVersionFile.m
+END
+InitialiseUI.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/69/trunk/Framework/GUI/InitialiseUI.m
+END
+runanalysis.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/17/trunk/Framework/GUI/runanalysis.m
+END
+PsySoundGUI.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/Framework/GUI/PsySoundGUI.m
+END
+PostPropGUI.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/69/trunk/Framework/GUI/PostPropGUI.m
+END
+PostPropGUIBack.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/Framework/GUI/PostPropGUIBack.m
+END
+PsySoundGUI.fig
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/Framework/GUI/PsySoundGUI.fig
+END
+DisplayUIPanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/Framework/GUI/DisplayUIPanel.m
+END

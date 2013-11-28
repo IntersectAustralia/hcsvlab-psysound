@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSpectrum
+END
+anim.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSpectrum/anim.m
+END
+getDataObjectStatsString.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSpectrum/getDataObjectStatsString.m
+END
+psysnd3tSpectrum.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSpectrum/psysnd3tSpectrum.m
+END
+getSize.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSpectrum/getSize.m
+END
+set.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSpectrum/set.m
+END
+exportData.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSpectrum/exportData.m
+END
+setlength.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSpectrum/setlength.m
+END
+plot.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSpectrum/plot.m
+END
+get.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSpectrum/get.m
+END
+getTimeIncrement.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/trunk/Objects/DataObjects/@psysnd3tSpectrum/getTimeIncrement.m
+END

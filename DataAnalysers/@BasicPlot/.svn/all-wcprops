@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/26/trunk/DataAnalysers/@BasicPlot
+END
+execDoubleClick.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/DataAnalysers/@BasicPlot/execDoubleClick.m
+END
+updateDataAnalyserPanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/DataAnalysers/@BasicPlot/updateDataAnalyserPanel.m
+END
+ui.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/DataAnalysers/@BasicPlot/ui.m
+END
+BasicPlot.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/DataAnalysers/@BasicPlot/BasicPlot.m
+END
+Graph.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/26/trunk/DataAnalysers/@BasicPlot/Graph.m
+END
+getDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/DataAnalysers/@BasicPlot/getDescription.m
+END

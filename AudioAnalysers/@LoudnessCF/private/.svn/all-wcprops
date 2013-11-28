@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/AudioAnalysers/@LoudnessCF/private
+END
+kernlaut24_two.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/kernlaut24_two.m
+END
+init_tpn.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/init_tpn.m
+END
+flankenlautheit24.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/flankenlautheit24.m
+END
+butter_hp.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/butter_hp.m
+END
+am.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/am.m
+END
+int_tp.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/int_tp.m
+END
+korrel.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/korrel.m
+END
+sharpness_Fastl.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/AudioAnalysers/@LoudnessCF/private/sharpness_Fastl.m
+END
+damp_a0.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/damp_a0.m
+END
+nltp_v.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/nltp_v.m
+END
+prctile.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/prctile.m
+END
+bark_sum.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/bark_sum.m
+END
+staticParamDLM.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/staticParamDLM.m
+END
+make_fttbank1.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/make_fttbank1.m
+END
+flankenlautheit_t24.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/flankenlautheit_t24.m
+END
+ftt_bank1.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/ftt_bank1.m
+END
+rms_tep.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/rms_tep.m
+END
+dlm.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/dlm.m
+END
+signal.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/signal.m
+END
+testnoise.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/testnoise.m
+END
+fluct.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/fluct.m
+END
+post_maskn.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/post_maskn.m
+END
+tep_window.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/tep_window.m
+END
+kernl2lg.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/kernl2lg.m
+END
+demo_fluct.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/demo_fluct.m
+END
+data.doc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/AudioAnalysers/@LoudnessCF/private/data.doc
+END

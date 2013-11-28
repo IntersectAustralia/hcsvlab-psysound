@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/53/trunk/AudioAnalysers/@TwelfthOctConstQ
+END
+processWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/53/trunk/AudioAnalysers/@TwelfthOctConstQ/processWindow.m
+END
+assignOutputs.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/53/trunk/AudioAnalysers/@TwelfthOctConstQ/assignOutputs.m
+END
+constructDataObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/53/trunk/AudioAnalysers/@TwelfthOctConstQ/constructDataObjects.m
+END
+allocOutputDataStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/53/trunk/AudioAnalysers/@TwelfthOctConstQ/allocOutputDataStorage.m
+END
+TwelfthOctConstQ.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/53/trunk/AudioAnalysers/@TwelfthOctConstQ/TwelfthOctConstQ.m
+END
+ui.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/53/trunk/AudioAnalysers/@TwelfthOctConstQ/ui.m
+END
+getFFT.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/53/trunk/AudioAnalysers/@TwelfthOctConstQ/getFFT.m
+END
+getDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53/trunk/AudioAnalysers/@TwelfthOctConstQ/getDescription.m
+END

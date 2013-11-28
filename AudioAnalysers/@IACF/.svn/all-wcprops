@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/12/trunk/AudioAnalysers/@IACF
+END
+setIntTime.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/AudioAnalysers/@IACF/setIntTime.m
+END
+processWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12/trunk/AudioAnalysers/@IACF/processWindow.m
+END
+assignOutputs.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12/trunk/AudioAnalysers/@IACF/assignOutputs.m
+END
+constructDataObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/AudioAnalysers/@IACF/constructDataObjects.m
+END
+getIntTime.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/AudioAnalysers/@IACF/getIntTime.m
+END
+allocOutputDataStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12/trunk/AudioAnalysers/@IACF/allocOutputDataStorage.m
+END
+settStep.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12/trunk/AudioAnalysers/@IACF/settStep.m
+END
+createPreFilterFunc.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12/trunk/AudioAnalysers/@IACF/createPreFilterFunc.m
+END
+ui.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunk/AudioAnalysers/@IACF/ui.m
+END
+gettStep.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12/trunk/AudioAnalysers/@IACF/gettStep.m
+END
+IACF.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12/trunk/AudioAnalysers/@IACF/IACF.m
+END
+getDescription.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/AudioAnalysers/@IACF/getDescription.m
+END
