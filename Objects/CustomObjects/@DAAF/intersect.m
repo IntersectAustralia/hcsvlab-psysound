@@ -59,7 +59,6 @@ time = startTime;
 i = 1;
 while time < endTime
 	if obj.TimePoints(i) < (time + obj.Increment/2)  && obj.TimePoints(i) > (time - obj.Increment/2) 
-	
-	
-	time = time + Increment;
+	    time = time + Increment;
+    end
 end
