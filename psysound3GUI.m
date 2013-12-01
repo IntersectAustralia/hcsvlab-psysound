@@ -17,11 +17,11 @@ if ~isempty(findstr(p, 'psysound3'))
   disp('Please read README File distributed with Software.');
   disp('PsySound is BETA Software. Use at your own risk.');
   
-  %PsySoundGUI;
+  PsySoundGUI;
 else
   fprintf(['PsySound3 does not seem to be configured, configuring before proceeding.\n']);
   configPsySound3;
-  %PsySoundGUI;
+  PsySoundGUI;
 end
 
 
@@ -45,21 +45,21 @@ try
   vPrts  = getParts(v.Version);
   rvPrts = getParts(reqVer);
   
-  %if any(vPrts < rvPrts)
-  %  error(['PsySound requires a minimum Matlab version of ', ...
-  %         reqVer]);
-  %else
-  %     fprintf('Matlab Version (> 7.3) OK.\n');
-  %end
+  if any(vPrts < rvPrts)
+    error(['PsySound requires a minimum Matlab version of ', ...
+           reqVer]);
+  else
+       fprintf('Matlab Version (> 7.3) OK.\n');
+  end
 
   % Warn for the signal processing toolbox
-  %sigV = ver('signal');
-  %if isempty(sigV)
-  %  warning(['Signal Processing Toolbox not found. PsySound may ', ...
-  %           'not function correctly']);
-  %else
-  %    fprintf('Signal Processing Toolbox OK.\n');
-  %end
+  sigV = ver('signal');
+  if isempty(sigV)
+    warning(['Signal Processing Toolbox not found. PsySound may ', ...
+             'not function correctly']);
+  else
+      fprintf('Signal Processing Toolbox OK.\n');
+  end
 
 
 
@@ -152,4 +152,3 @@ parts = sscanf(V, '%d.%d.%d')';
       parts(3) = 0; % zero-fills to 3 elements
     end
     
-
