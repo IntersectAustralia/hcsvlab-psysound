@@ -43,6 +43,8 @@ end
 
 function execRunHilbert(infile, weighting, outfile)
 
+psysound3;
+
 inTemp = './temp/runHilbertInput.mat'
 copyfile(infile, inTemp)
 load(inTemp);
@@ -50,7 +52,7 @@ fhs
 
 disp('in file:');
 disp(infile);
-psysound3;
+
 
 objs = cell(length(fhs), 1)
 outputs = cell(2, 1) 

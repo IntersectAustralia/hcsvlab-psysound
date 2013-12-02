@@ -76,6 +76,8 @@ end
 
 function execRunSLM(infile, wChoices, iChoices, ignoreDelay, outfile)
 
+psysound3;
+
 inTemp = './temp/runSLMInput.mat'
 copyfile(infile, inTemp)
 load(inTemp);
@@ -83,14 +85,14 @@ fhs
 
 disp('in file:');
 disp(infile);
-psysound3;
+
 
 objs = cell(length(fhs), 1)
 outputs = cell(2, 1) 
 
 for i = 1:length(fhs)
   obj = SLM(fhs(i));
-  % obj = setIgnoreDelay(obj, false); %this currently throws errors in psysound.
+   obj = setIgnoreDelay(obj, ignoreDelay) %this currently throws errors in psysound.
   obj = setwChoices(obj, wChoices);
   obj = setiChoices(obj, iChoices);
   objs{i} = obj 

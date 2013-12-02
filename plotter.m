@@ -11,6 +11,8 @@ end
 
 function execPlotter(infile, fileIndex, objIndex, outfile)
 
+psysound3;
+
 inTemp = './temp/plotterInput.mat'
 copyfile(infile, inTemp)
 load(inTemp);
@@ -18,7 +20,8 @@ objs
 dim = size(objs)
 
 if (fileIndex > dim(1) || objIndex > dim(2))
- disp(['Index (' int2str(fileIndex) ',' int2str(objIndex) ') out of bounds. Object dimensions are ' int2str(dim(1)) 'x' int2str(dim(2))])
+ msg = ['Index (' int2str(fileIndex) ',' int2str(objIndex) ') out of bounds. Object dimensions are ' int2str(dim(1)) 'x' int2str(dim(2))]
+ fprintf(2,msg)
 return	
 end
 
