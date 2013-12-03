@@ -7,10 +7,6 @@ function psysound3
 % Check to see if PsySound3 is on the path
 p = path;
 
-if ~exist('temp', 'dir')
-  mkdir('temp');
-end
-
 if ~isempty(findstr(p, 'psysound3')) 
   try
     getPsysound3Prefs; % CHECK IF PREFERENCES ARE THERE (May not be if PsySound paths added manually)

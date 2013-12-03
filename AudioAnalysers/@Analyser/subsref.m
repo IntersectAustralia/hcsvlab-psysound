@@ -12,6 +12,8 @@ switch(S(1).type)
   
   % Dispatch the rest to MATLAB
   if length(S) > 1
+    disp 'LENGTH OF S:'
+    length(S)
     value = builtin('subsref', value, S(2:end));
   end
  otherwise

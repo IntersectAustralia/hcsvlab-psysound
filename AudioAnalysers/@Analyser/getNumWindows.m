@@ -10,8 +10,12 @@ if nargin > 1
   ov = varargin{2};
 else
   wl = get(obj, 'windowLength');
-  ov = getOverlap(obj);
-end
+  ov = obj.overlap
+  if isnumeric(ov) == 0
+      ov = ov.size
+  end    
+end 
+    
 
 num = ceil((samples+wl/2)./(wl - ov));
 

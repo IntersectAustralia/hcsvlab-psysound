@@ -19,7 +19,7 @@ switch ov.type
   
  case 'ms'
   % The overlap is specified in milliseconds
-  fs      = obj.fs;
+  fs      = obj.fs
   overlap = round(ov.size * 1e-3 * fs);
   
  case 's'

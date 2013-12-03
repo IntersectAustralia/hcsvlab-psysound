@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deployment-project>
-  <configuration target="target.standalone" target-name="Standalone Application" name="psysound3Compiled" location="/home/bwitz/clean/psysound3" file="/home/bwitz/clean/psysound3/psysound3Compiled.prj" build-checksum="3803993941">
+  <configuration target="target.standalone" target-name="Standalone Application" name="psysound3Compiled" location="/home/bwitz/clean/psysound3" file="/home/bwitz/clean/psysound3/psysound3Compiled.prj" build-checksum="2258885579">
     <param.project.name>/home/bwitz/clean/psysound3/psysound3Compiled.prj</param.project.name>
     <param.target.type>Standalone Application</param.target.type>
     <param.appname>psysound3Compiled</param.appname>
@@ -86,7 +86,7 @@
     <matlab>
       <root>/home/bwitz/MATLAB/R2011b</root>
       <path>
-        <directory>/home/bwitz/clean/psysound3</directory>
+        <directory>/home/bwitz/Documents/MATLAB</directory>
         <directory>${PROJECT_ROOT}/Objects/DataStorageObjects</directory>
         <directory>${PROJECT_ROOT}/Objects/DataObjects</directory>
         <directory>${PROJECT_ROOT}/Objects/CustomObjects</directory>
@@ -130,7 +130,7 @@
         <directory>${PROJECT_ROOT}/.git/branches</directory>
         <directory>${PROJECT_ROOT}/.git</directory>
         <directory>${PROJECT_ROOT}/ psysound3 --username densil.cabrera</directory>
-        <directory>/home/bwitz/Documents/MATLAB</directory>
+        <directory>/home/bwitz/clean/psysound3</directory>
         <directory>${MATLAB_ROOT}/toolbox/matlab/graph2d</directory>
         <directory>${MATLAB_ROOT}/toolbox/matlab/graph3d</directory>
         <directory>${MATLAB_ROOT}/toolbox/matlab/graphics</directory>

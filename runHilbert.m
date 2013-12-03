@@ -1,43 +1,39 @@
 function runHilbert(varargin)
-infile = ''
-weighting = ''
-outfile = ''
-currentArg = 0
-capture = 0
+infile = '';
+weighting = '';
+outfile = '';
+currentArg = 0;
+capture = 0;
 
 for i = 1:length(varargin)
-
   % find which argument we are currently inspecting
   if strcmp(varargin{i}, '-i')
-    currentArg = 1
-    capture = 0
+    currentArg = 1;
+    capture = 0;
   elseif strcmp(varargin{i}, '-w')
-    currentArg = 2
-    capture = 0
+    currentArg = 2;
+    capture = 0;
   elseif strcmp(varargin{i}, '-o')
-    currentArg = 3
-    capture = 0
+    currentArg = 3;
+    capture = 0;
   else
-    currentArg = currentArg
-    capture = 1
+    currentArg = currentArg;
+    capture = 1;
   end
 
   if (currentArg == 1 && capture == 1) %infile
-    infile = varargin{i}
+    infile = varargin{i};
   elseif (currentArg == 2 && capture == 1) %analysers
-    weighting = varargin{i}
+    weighting = varargin{i};
   elseif (currentArg == 3 && capture == 1) %outfile    
-    outfile = varargin{i}
+    outfile = varargin{i};
   end  
-
-
 end
   infile
   weighting
   outfile
   
 execRunHilbert(infile, weighting, outfile)
-
 end
 
 
@@ -45,30 +41,32 @@ function execRunHilbert(infile, weighting, outfile)
 
 psysound3;
 
-inTemp = './temp/runHilbertInput.mat'
-copyfile(infile, inTemp)
+inTemp = 'runHilbertInput.mat';
+copyfile(infile, inTemp);
 load(inTemp);
-fhs
-
-disp('in file:');
-disp(infile);
-
-
-objs = cell(length(fhs), 1)
-outputs = cell(2, 1) 
-
-for i = 1:length(fhs)
-   obj = Hilbert(fhs(i))
-   obj.PreFilterWeighting = weighting;
-   obj = process(obj, fhs(i), [])
-   objs{i} = obj 
+try 
+    fhs
+catch
+    msg = ['The input file does not contain a fileset named ''fhs''. Use the ''Build Input Dataset'' tool to create a fileset.'];
+    fprintf(2,msg);
+    return
 end
 
-outTemp = './temp/runHilbertOutput.mat'
+objs = '';
+for i = 1:length(fhs)
+   obj = Hilbert(fhs(i));
+   obj.PreFilterWeighting = weighting;
+   obj = process(obj, fhs(i), [])
+   objs{i} = obj;
+end
 
-save ./temp/runHilbertOutput.mat objs % can't use a reference to outTemp here
+outTemp = 'runHilbertOutput.mat';
 
-copyfile(outTemp, outfile)
+save runHilbertOutput.mat objs;
+
+copyfile(outTemp, outfile);
+
+delete(inTemp, outTemp);
 
 end
 
